@@ -151,7 +151,7 @@ After the Hydra attack, I searched Splunk for activity related to 'tsmith' withi
 
 ## Part 5 - Atomic Red Team Attack Simulation
 
-I installed **Atomic Red Team** on target-PC to simulate MITRE ATT&CK mapped attacks and generate telemetry for Splunk detection. All attack techniques reference the MITRE ATT&CK framework at [attack.mitre.org](screenshots/https://attack.mitre.org).
+I installed **Atomic Red Team** on target-PC to simulate MITRE ATT&CK mapped attacks and generate telemetry for Splunk detection. All attack techniques reference the MITRE ATT&CK framework at https://attack.mitre.org/
 
 #### Atomic Red Team Attack 1 - T1136.001 | Create Local Account
 
